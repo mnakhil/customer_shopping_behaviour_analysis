@@ -2,3 +2,4 @@
 ssh_rsa.pub
 ssh_rsa
 .venv/
+.DS_Store
